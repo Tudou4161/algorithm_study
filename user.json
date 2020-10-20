@@ -1,0 +1,9 @@
+{
+    "id": "ys123",
+    "password": "123",
+    "age": 30,
+    "hobby": [
+        "football",
+        "coding"
+    ]
+}
